@@ -1,10 +1,10 @@
 # Resume
 
- # Divyanshu Singh
+                                                # Divyanshu Singh
 
-**Phone**: 9125681448
-**Email**: singhdivyanshu7072@gmail.com  
-**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/singhdivanshu123/)
+                                                **Phone**: +91 9125681448
+                                          **Email**: singhdivyanshu7072@gmail.com  
+                       **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/singhdivanshu123/)
 
 ## Objective  
 Salesforce Developer with over 2.10 years of experience seeking challenging opportunities to utilize my Salesforce expertise.
