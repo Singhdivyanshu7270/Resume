@@ -1,39 +1,34 @@
 # Resume
 
-# Divyanshu Singh
+ # Divyanshu Singh
 
-**Email**: Singhdivyanshu7072@gmail.com  
-**LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/singhdivanshu123/)  
- 
-
----
+**Phone**: 9125681448
+**Email**: singhdivyanshu7072@gmail.com  
+**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/singhdivanshu123/)
 
 ## Objective  
-A passionate Salesforce Developer with expertise in Apex, Trigger, and automation tools, aiming to deliver scalable business solutions.
+Salesforce Developer with over 2.10 years of experience seeking challenging opportunities to utilize my Salesforce expertise.
 
----
+## Work Experience  
+
+### Xapotech Systems Private Limited, Salesforce Developer  
+*Nov 2021 - Present*  
+- Customized Salesforce objects like Accounts, Contacts, and Custom Objects.
+- Developed Apex triggers, batch jobs, and automated workflows using Process Builder and Flows.
+- Implemented data migration and integration using Workbench and Data Loader.
 
 ## Skills  
-- **Programming**: Apex  
-- **Frameworks**: Salesforce Lightning,  Trigger , Apex , Visualforce  
-- **Tools**: Git, REST APIs, VSCode
+- **Languages**: Apex, Visualforce, SOQL.  
+- **Tools**: Salesforce CRM, Workbench, Deployment  
+- **Salesforce**: Process Builder, Flows, Validation Rules, Apex Classes
 
----
+## Education  
+**B.Tech (Civil Engineering)**  
+Shambhunath Institute of Engineering and Technology, Prayagraj (2014-2018)  
+Percentage: 64.7%
 
-## Experience  
-### Salesforce Developer | Company XapoTech System Private Limited  
-*NOv - 2021*  
-- Developed Apex triggers, classes, and batch jobs to optimize Salesforce processes.  
-  
----
+ 
 
-## Projects  
-### **[Project Name](https://github.com/link-to-project)**  
-- Built a Salesforce app to track customer orders, including Apex triggers and custom LWC components.
-
-### **[Another Project](https://github.com/link-to-project)**  
-- Integrated Salesforce with external ERP systems using REST APIs.
-
----
+ 
 
  
